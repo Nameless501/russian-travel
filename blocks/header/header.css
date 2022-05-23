@@ -1,7 +1,22 @@
 .header {
-    margin: 0;
-    width: 100%;
+    margin: 28px 48px 0;
+    width: calc(100% - 48px * 2);
     display: flex;
     justify-content: space-between;
     color: #FFFFFF;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 1023px) {
+    .header {
+        width: calc(100% - 24px * 2);
+        margin: 28px 24px 0;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .header {
+        width: calc(100% - 16px * 2);
+        margin: 16px 16px 0;
+    }
 }

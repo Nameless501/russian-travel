@@ -1,9 +1,16 @@
-.info__list {
+.intro__list {
     margin: 33px 0 0;
     padding: 0;
+    width: 100%;
     font-weight: 700;
     font-size: 12px;
     line-height: 18px;
     list-style: none;
     text-decoration: none;
+}
+
+@media screen and (max-width: 767px) {
+    .intro__list {
+        margin: 34px 0 0;
+    }    
 }
