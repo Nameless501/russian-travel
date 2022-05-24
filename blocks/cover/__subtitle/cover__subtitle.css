@@ -1,31 +1,17 @@
 .cover__subtitle {
-    margin: 32px 412px 0;
+    margin: 32px 100px 0;
     padding: 0;
-    width: calc(100% - 412px * 2);
+    width: calc(100% - 100px * 2);
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
     text-align: center;
 }
 
-@media screen and (max-width: 1279px) {
-    .cover__subtitle {
-        margin: 32px 332px 0;
-        width: calc(100% - 332px *2);
-    }
-}
-
-@media screen and (max-width: 1023px) {
-    .cover__subtitle {
-        margin: 32px 204px 0;
-        width: calc(100% - 204px *2);
-    }
-}
-
 @media screen and (max-width: 767px) {
     .cover__subtitle {
-        margin: 16px 16px 0;
-        width: calc(100% - 16px *2);
+        margin: 16px 0 0;
+        width: 100%;
         font-size: 14px;
         line-height: 16px;
     }

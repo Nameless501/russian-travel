@@ -76,7 +76,9 @@
 
 @import url(../blocks/cover/cover.css);
 
-@import url(../blocks/cover/__overlay/cover__overlay.css);
+@import url(../blocks/cover/__card/cover__card.css);
+
+@import url(../blocks/cover/__text/cover__text.css);
 
 @import url(../blocks/cover/__title/cover__title.css);
 
@@ -85,8 +87,6 @@
 /* блок footer */
 
 @import url(../blocks/footer/footer.css);
-
-@import url(../blocks/footer/__menu/footer__menu.css);
 
 @import url(../blocks/footer/__links/footer__links.css);
 
