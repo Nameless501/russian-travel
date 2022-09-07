@@ -1,4 +1,5 @@
-# :bullettrain_front:   __Russian travel__ 
+# __<p align="center">:bullettrain_front: Russian travel</p>__
+### <div align="center" ><a href="https://nameless501.github.io/russian-travel/">Посмотреть на gh-pages</a></div>
 
  ### Описание:
  
@@ -17,5 +18,7 @@
  HTML, CSS, Git.
  
  ___
+ 
+ #### Требования для запуска:
 
-[Ссылка на работу](https://nameless501.github.io/russian-travel/)
+- Браузеры, поддерживающие HTML5: Chrome(версия 26 и новее, мобильная версия - 104 и новее); Edge(версия 12 и новее); Safari(версия 6.1 и новее, iOS - версия 7 и новее); Firefox(версия 21 и новее, Firefox Mobile - версия 101 и новее); Opera(версия 15 и новее, Opera Mobile - версия 64 и новее)
